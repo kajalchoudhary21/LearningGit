@@ -12,6 +12,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class XpathPractices {
 
 	public static void main(String[] args) throws InterruptedException {
+		
+		int y;
 		// TODO Auto-generated method stub
 	
 		
