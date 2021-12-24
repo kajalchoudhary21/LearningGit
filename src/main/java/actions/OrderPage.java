@@ -3,11 +3,11 @@ package actions;
 public class OrderPage {
 
 
-		// TODO Auto-generated method stub
+		
 		
 		int OrderNumber;
 		
-		public void order() {
+		public void orderPro() {
 			
 			System.out.println(OrderNumber);
 			
